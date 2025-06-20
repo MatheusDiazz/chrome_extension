@@ -22,6 +22,7 @@ function renderLeads() {
                         ${myLeads[i]}
                     </a>
                 </li>
+                
             `
 
         }
